@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AssecoAssignment</string>
+
+
+    <string name="enter_url">Enter URL</string>
+    <string name="generate_hash">Generate hash</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="generic_error">An error occurred</string>
+    <string name="data_already_saved">%1$s with hash: %2$s \n was already saved to %3$s.</string>
+    <string name="error_saving_to_db">There was an error while writing to DB.</string>
+    <string name="error_saving_to_sp">There was an error while writing to SP.</string>
+</resources>
